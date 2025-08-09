@@ -1,0 +1,26 @@
+/* Set a clean, modern font and light gray background for the whole page */
+body {
+  font-family: Arial, sans-serif; /* Use Arial font with sans-serif fallback */
+  padding: 20px; /* Add spacing around the content */
+  background: #f0f0f0; /* Light gray background */
+}
+
+/* Style for the main heading */
+h1 {
+  text-align: center; /* Center the heading text */
+  margin-bottom: 20px; /* Add space below the heading */
+}
+
+/* Style for the table layout */
+table {
+  width: 100%; /* Make the table take full width */
+  background: white; /* White background for table */
+  border-collapse: collapse; /* Merge borders for a cleaner look */
+}
+
+/* Style for table header cells and table data cells */
+th, td {
+  padding: 10px; /* Add padding inside cells */
+  border: 1px solid #ccc; /* Light gray border */
+  text-align: left; /* Align text to the left */
+}

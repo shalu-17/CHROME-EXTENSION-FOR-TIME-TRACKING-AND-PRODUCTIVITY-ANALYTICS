@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard</title>
+  <style>
+    /* Set font, padding, and background color for the whole page */
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f5f5f5; }
+
+    /* Style for the main heading */
+    h1 { color: #333; }
+
+    /* Table styling */
+    table { border-collapse: collapse; width: 100%; background: white; }
+
+    /* Table cells (both header and data) */
+    th, td { padding: 8px 12px; border: 1px solid #ddd; text-align: left; }
+
+    /* Header row style */
+    th { background-color: #4caf50; color: white; }
+  </style>
+</head>
+<body>
+  <!-- Dashboard Title -->
+  <h1>Website Time Tracker Dashboard</h1>
+
+  <!-- Table to display website usage data -->
+  <table id="timeTable">
+    <thead>
+      <tr><th>Website</th><th>Time Spent (HH:MM:SS)</th><th>Category</th></tr>
+    </thead>
+    <tbody></tbody> <!-- Data will be inserted dynamically via JavaScript -->
+  </table>
+
+  <!-- JavaScript file that will populate table data -->
+  <script src="dashboard.js"></script>
+</body>
+</html>

@@ -49,4 +49,9 @@ cd server
 npm install express mongoose cors
 node server.js
 
+# OUTPUT
+<img width="1844" height="561" alt="Image" src="https://github.com/user-attachments/assets/47c861f5-489d-41ba-8130-c05269a8fcbc" />
+
+<img width="1402" height="847" alt="Image" src="https://github.com/user-attachments/assets/badd7bfe-0a58-468c-9429-b1b2b5fd1e6f" />
+
 

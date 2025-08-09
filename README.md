@@ -1,3 +1,5 @@
+
+
 # ⏱️ Time Tracker Chrome Extension
 
 A Chrome Extension to track time spent on different websites and visualize productivity analytics with a Node.js + MongoDB backend.
@@ -39,3 +41,4 @@ time-tracker-extension/
 cd server
 npm install express mongoose cors
 node server.js
+

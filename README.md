@@ -1,10 +1,4 @@
 # ⏱️ Time Tracker Chrome Extension
-COMPANY : CODTECH SOLUTIONS
-NAME: SHALU
-INTERN ID:CT06DG2964
-DOMAIN: FULL STACK DEVELOPER
-DURATION: 6 WEEKS
-MENTOR: NEELA SANTOSH
 
 Chrome extension designed to help users monitor the time they spend on various websites and gain insights into their online productivity. By categorizing websites into "Productive" and "Non-Productive" categories, the extension allows users to understand their browsing habits, helping them stay focused and manage their time more effectively.
 
@@ -48,6 +42,7 @@ time-tracker-extension/
 <img width="1844" height="561" alt="Image" src="https://github.com/user-attachments/assets/47c861f5-489d-41ba-8130-c05269a8fcbc" />
 
 <img width="1402" height="847" alt="Image" src="https://github.com/user-attachments/assets/badd7bfe-0a58-468c-9429-b1b2b5fd1e6f" />
+
 
 
 
